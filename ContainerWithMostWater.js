@@ -7,7 +7,9 @@ let MaxArea=function(nums){
             low++
         }
         else{
-            
+            area=nums[high] * (high-low)
+            maxi=Math.max(maxi,area)
+            high--
         }
     }
     return maxi
