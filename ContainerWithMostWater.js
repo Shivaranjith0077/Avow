@@ -1,0 +1,3 @@
+let MaxArea=function(nums){
+    
+}
