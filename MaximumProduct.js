@@ -1,3 +1,3 @@
-let b=10
-let i="Shiva"
-console.log(i+b)
+let b = 10
+let i = "alvitone"
+console.log(i + b)
