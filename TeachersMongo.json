@@ -1,0 +1,167 @@
+[
+    {
+        "teacher_id": "T001",
+        "name": "Alice Johnson",
+        "subject": "Mathematics",
+        "email": "alice.johnson@example.com",
+        "phone": "+1-555-1234",
+        "hire_date": "2018-03-15T00:00:00Z",
+        "dob": "1985-07-23T00:00:00Z",
+        "active_status": true,
+        "current_salary": 55000
+    },
+    {
+        "teacher_id": "T002",
+        "name": "Bob Smith",
+        "subject": "English",
+        "email": "bob.smith@example.com",
+        "phone": "+1-555-5678",
+        "hire_date": "2019-06-22T00:00:00Z",
+        "dob": "1990-11-05T00:00:00Z",
+        "active_status": true,
+        "current_salary": 48000
+    },
+    {
+        "teacher_id": "T003",
+        "name": "Carol Davis",
+        "subject": "Biology",
+        "email": "carol.davis@example.com",
+        "phone": "+1-555-8765",
+        "hire_date": "2017-09-10T00:00:00Z",
+        "dob": "1982-04-18T00:00:00Z",
+        "active_status": false,
+        "current_salary": 52000
+    },
+    {
+        "teacher_id": "T004",
+        "name": "David Lee",
+        "subject": "Chemistry",
+        "email": "david.lee@example.com",
+        "phone": "+1-555-4321",
+        "hire_date": "2020-01-08T00:00:00Z",
+        "dob": "1988-12-30T00:00:00Z",
+        "active_status": true,
+        "current_salary": 54000
+    },
+    {
+        "teacher_id": "T005",
+        "name": "Emily White",
+        "subject": "Physics",
+        "email": "emily.white@example.com",
+        "phone": "+1-555-6789",
+        "hire_date": "2016-11-20T00:00:00Z",
+        "dob": "1991-03-12T00:00:00Z",
+        "active_status": true,
+        "current_salary": 57000
+    },
+    {
+        "teacher_id": "T006",
+        "name": "Frank Green",
+        "subject": "History",
+        "email": "frank.green@example.com",
+        "phone": "+1-555-9876",
+        "hire_date": "2015-07-15T00:00:00Z",
+        "dob": "1980-08-25T00:00:00Z",
+        "active_status": true,
+        "current_salary": 60000
+    },
+    {
+        "teacher_id": "T007",
+        "name": "Grace Harris",
+        "subject": "Art",
+        "email": "grace.harris@example.com",
+        "phone": "+1-555-3456",
+        "hire_date": "2021-04-01T00:00:00Z",
+        "dob": "1994-09-17T00:00:00Z",
+        "active_status": true,
+        "current_salary": 49000
+    },
+    {
+        "teacher_id": "T008",
+        "name": "Henry Clark",
+        "subject": "Music",
+        "email": "henry.clark@example.com",
+        "phone": "+1-555-2345",
+        "hire_date": "2014-12-12T00:00:00Z",
+        "dob": "1986-10-05T00:00:00Z",
+        "active_status": true,
+        "current_salary": 51000
+    },
+    {
+        "teacher_id": "T009",
+        "name": "Ivy Martinez",
+        "subject": "Physical Education",
+        "email": "ivy.martinez@example.com",
+        "phone": "+1-555-4567",
+        "hire_date": "2022-05-20T00:00:00Z",
+        "dob": "1993-01-29T00:00:00Z",
+        "active_status": true,
+        "current_salary": 46000
+    },
+    {
+        "teacher_id": "T010",
+        "name": "Jack Wilson",
+        "subject": "Computer Science",
+        "email": "jack.wilson@example.com",
+        "phone": "+1-555-6780",
+        "hire_date": "2018-10-10T00:00:00Z",
+        "dob": "1989-06-16T00:00:00Z",
+        "active_status": true,
+        "current_salary": 59000
+    },
+    {
+        "teacher_id": "T011",
+        "name": "Kara Young",
+        "subject": "Geography",
+        "email": "kara.young@example.com",
+        "phone": "+1-555-7890",
+        "hire_date": "2020-09-15T00:00:00Z",
+        "dob": "1992-02-22T00:00:00Z",
+        "active_status": true,
+        "current_salary": 50000
+    },
+    {
+        "teacher_id": "T012",
+        "name": "Liam Scott",
+        "subject": "Economics",
+        "email": "liam.scott@example.com",
+        "phone": "+1-555-3457",
+        "hire_date": "2019-03-25T00:00:00Z",
+        "dob": "1987-11-10T00:00:00Z",
+        "active_status": true,
+        "current_salary": 54000
+    },
+    {
+        "teacher_id": "T013",
+        "name": "Mia Adams",
+        "subject": "Spanish",
+        "email": "mia.adams@example.com",
+        "phone": "+1-555-4568",
+        "hire_date": "2017-11-30T00:00:00Z",
+        "dob": "1995-05-05T00:00:00Z",
+        "active_status": true,
+        "current_salary": 47000
+    },
+    {
+        "teacher_id": "T014",
+        "name": "Nathan Baker",
+        "subject": "French",
+        "email": "nathan.baker@example.com",
+        "phone": "+1-555-5679",
+        "hire_date": "2021-08-22T00:00:00Z",
+        "dob": "1984-12-18T00:00:00Z",
+        "active_status": true,
+        "current_salary": 49000
+    },
+    {
+        "teacher_id": "T015",
+        "name": "Olivia Evans",
+        "subject": "Literature",
+        "email": "olivia.evans@example.com",
+        "phone": "+1-555-6781",
+        "hire_date": "2016-05-10T00:00:00Z",
+        "dob": "1989-07-07T00:00:00Z",
+        "active_status": false,
+        "current_salary": 53000
+    }
+]
